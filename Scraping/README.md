@@ -22,4 +22,4 @@
     pip install -r requirements.txt
 
 ### Run main script
-    python sanctions_scrapping.py
+    Python Script.py
